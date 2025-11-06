@@ -1,5 +1,5 @@
 
-  # AC Servicing Shop Website
+  # RKS Cool Service
 
   This is a code bundle for AC Servicing Shop Website. The original project is available at https://www.figma.com/design/1I3hDDdM4V8O8RKWQVKlzS/AC-Servicing-Shop-Website.
 
