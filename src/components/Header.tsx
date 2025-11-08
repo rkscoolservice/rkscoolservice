@@ -30,10 +30,10 @@ export function Header() {
       <div className="container mx-auto px-4">
         <div className="flex items-center gap-4 h-16 px-4">
           <div className="flex items-center gap-2 flex-shrink-0">
-            <img src="/assets/RKS.png" alt="RKS Logo" className="h-10 w-auto" />
+            <img src="/assets/RKS.webp" alt="RKS Logo" className="h-10 w-auto" />
             {/* Hide this second logo on mobile (show from md breakpoint and up) */}
             <img
-              src="/assets/R.K.S Cool (1).png"
+              src="/assets/R.K.S Cool (1).webp"
               alt="R.K.S Cool Logo"
               className="h-10 w-auto hidden md:block"
             />
