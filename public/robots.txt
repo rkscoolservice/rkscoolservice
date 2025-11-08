@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://rkscoolservice.vercel.app/sitemap.xml
+Sitemap: https://rkscoolservices.vercel.app/sitemap.xml
